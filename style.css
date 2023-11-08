@@ -1,0 +1,13 @@
+body {
+    max-width: 390px;
+}
+
+h1 {
+    color: #0000ff;
+    font-size: 62px;
+    background: gray;
+}
+
+p {
+    color: green;
+}
